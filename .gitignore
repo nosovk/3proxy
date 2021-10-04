@@ -259,3 +259,8 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Act
+.actrc
+.secrets
+.inputs.json
